@@ -1,1 +1,3 @@
-# Colas-del-inicio-en-Python-
+# Colas del inicio en Python
+
+Este programa implementa un sistema interactivo en la consola para gestionar listas simplemente ligadas en Python, permitiendo crear estructuras desde cero o cargar un ejemplo predeterminado basado en nodos con información y punteros de enlace (liga). La aplicación ofrece un menú completo que facilita realizar operaciones fundamentales como inserciones al inicio, al final o en posiciones específicas rellenando automáticamente los huecos con nodos vacíos, eliminaciones de elementos, búsquedas secuenciales y una función avanzada para hacer que dos nodos apunten a un destino común, midiendo además el tiempo exacto de ejecución de cada acción en milisegundos hasta concluir con el indicador de término FIN.
